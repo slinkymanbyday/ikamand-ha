@@ -1,0 +1,11 @@
+{
+  "domain": "ikamand",
+  "name": "iKamand",
+  "documentation": "https://github.com/slinkymanbyday/ikamand-ha",
+  "requirements": [
+    "ikamand==0.1.5"
+  ],
+  "codeowners": [
+    "@slinkymanbyday"
+  ]
+}
