@@ -1,5 +1,7 @@
 # iKamand
 
+## This project is no longer maintained, use https://github.com/plmilord/Hass.io-custom-component-ikamand instead
+
 
 **This component will set up the following platforms.**
 
